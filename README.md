@@ -15,7 +15,12 @@
   </a>
 </p>
 
-<p align="center">
+* 💻 Learning through Machine Learning project initiatives
+* 📄 Pursuing Knowledge in Neural Networks
+* 🧪 Experimentation with out-of-the-Box AI models
+* 🌐 Up-to-Date with AI Advancements and state-of-the-art models
+
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pikurrot&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pikurrot&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pikurrot&theme=algolia">
