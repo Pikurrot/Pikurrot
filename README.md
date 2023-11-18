@@ -9,6 +9,12 @@
   <a href="https://www.linkedin.com/in/eric-lopez-20788b265/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white">
   </a>
+  <a href="https://devpost.com/Pikurrot">
+    <img src="https://img.shields.io/badge/-Devpost-white?logo=devpost&logoColor=white&labelColor=darkslategray&color=darkslategray">
+  </a>
+  <a href="https://huggingface.co/Pikurrot">
+    <img src="https://img.shields.io/badge/-Huggingface-white?labelColor=yellow&color=yellow">
+  </a>
   <br>
   <a href="https://github.com/Pikurrot">
     <img src="https://github-stats-alpha.vercel.app/api?username=Pikurrot&cc=013&tc=fff&ic=0bf&bc=013" alt="my-profile">
