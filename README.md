@@ -31,3 +31,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pikurrot&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pikurrot&theme=algolia">
 </p>
+
+<p align="left">
+  <img src="https://skills.thijs.gg/icons?i=py">
+  <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="45px">
+  <img src="https://skills.thijs.gg/icons?i=git,c,cpp,docker">
+</p>
