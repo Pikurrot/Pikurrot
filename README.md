@@ -19,21 +19,30 @@
   <a href="https://github.com/Pikurrot">
     <img src="https://github-stats-alpha.vercel.app/api?username=Pikurrot&cc=013&tc=fff&ic=0bf&bc=013" alt="my-profile">
   </a>
+  <picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pikurrot/Pikurrot/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
-* 💻 Learning through Machine Learning project initiatives
-* 📄 Pursuing Knowledge in Neural Networks
-* 🧪 Experimentation with out-of-the-Box AI models
-* 🌐 Up-to-Date with AI Advancements and state-of-the-art models
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+* 💻 Learning through Machine Learning project initiatives<br>
+* 📄 Pursuing Knowledge in Neural Networks<br>
+* 🧪 Experimentation with out-of-the-Box AI models<br>
+* 🌐 Up-to-Date with AI Advancements and state-of-the-art models<br>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
-<p align="left">
+<hr>
+
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pikurrot&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pikurrot&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pikurrot&theme=algolia">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skills.thijs.gg/icons?i=py">
   <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="45px">
   <img src="https://skills.thijs.gg/icons?i=git,c,cpp,docker">
 </p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Pikurrot&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></p>
