@@ -24,12 +24,12 @@
   </picture>
 </p>
 
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 * 💻 Learning through Machine Learning project initiatives<br>
 * 📄 Pursuing Knowledge in Neural Networks<br>
 * 🧪 Experimentation with out-of-the-Box AI models<br>
 * 🌐 Up-to-Date with AI Advancements and state-of-the-art models<br>
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd>
 
 <hr>
 
