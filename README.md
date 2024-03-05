@@ -40,9 +40,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skills.thijs.gg/icons?i=py">
+  <img src="https://skillicons.dev/icons?i=py">
   <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="45px">
-  <img src="https://skills.thijs.gg/icons?i=git,c,cpp,docker">
+  <img src="https://skillicons.dev/icons?i=git,pytorch,opencv,c,cpp,linux,docker">
 </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Pikurrot&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></p>
