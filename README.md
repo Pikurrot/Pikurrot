@@ -42,7 +42,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py">
   <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="45px">
-  <img src="https://skillicons.dev/icons?i=git,pytorch,opencv,c,cpp,linux,docker">
+  <img src="https://skillicons.dev/icons?i=git,pytorch,opencv,c,cpp,linux,docker,latex,arduino">
+  <img width=45px src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
 </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Pikurrot&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></p>
