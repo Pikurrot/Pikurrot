@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Pikurrot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&multiline=true&random=false&width=550&height=100&lines=Eric+L%C3%B3pez;Student+at+Autonomous+University+of+Barcelona;AI+%7C+Machine+Learning" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&multiline=true&random=false&width=550&height=130&lines=Eric+L%C3%B3pez;Student+at+Autonomous+University+of+Barcelona;Intern at Computer Vision Center;AI+%7C+Deep+Learning" alt="Typing SVG">
   </a>
   <br>
   <a href="mailto:pikurrot@gmail.com">
@@ -25,10 +25,11 @@
 </p>
 
 
-* 💻 Learning through Machine Learning project initiatives<br>
 * 📄 Pursuing Knowledge in Neural Networks<br>
-* 🧪 Experimentation with out-of-the-Box AI models<br>
+* 💻 Learning RAG with LLMs at Comupter Vision Center<br>
+* 🧪 Experimenting with out-of-the-Box AI models<br>
 * 🌐 Up-to-Date with AI Advancements and state-of-the-art models<br>
+* 🗄️ Playing with my Linux home server<br>
 
 
 <hr>
