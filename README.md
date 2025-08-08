@@ -25,11 +25,11 @@
 </p>
 
 
-* 📄 Pursuing Knowledge in Neural Networks<br>
-* 💻 Learning RAG with LLMs at Comupter Vision Center<br>
+* 📄 Pursuing Knowledge in Computer Vision and NLP<br>
+* 💻 Doing research in Document Understanding at Comupter Vision Center<br>
 * 🧪 Experimenting with out-of-the-Box AI models<br>
 * 🌐 Up-to-Date with AI Advancements and state-of-the-art models<br>
-* 🗄️ Playing with my Linux home server<br>
+* 🗄️ Maintaining my Linux home server<br>
 
 
 <hr>
