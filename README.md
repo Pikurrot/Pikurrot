@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&multiline=true&random=false&width=550&height=130&lines=Eric+L%C3%B3pez;Student+at+Autonomous+University+of+Barcelona;Intern+at+Computer+Vision+Center;AI+%7C+Deep+Learning" alt="Typing SVG">
   </a>
   <br>
+  <a href="https://pikurrot.github.io/">
+    <img src="https://img.shields.io/badge/-Website-darkgreen?logo=google-chrome&logoColor=white">
+  </a>
   <a href="mailto:pikurrot@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white">
   </a>
@@ -20,7 +23,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=Pikurrot&cc=013&tc=fff&ic=0bf&bc=013" alt="my-profile">
   </a>
   <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pikurrot/Pikurrot/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pikurrot/Pikurrot/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
 
