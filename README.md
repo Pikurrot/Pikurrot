@@ -42,6 +42,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pikurrot&theme=algolia">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pikurrot&theme=algolia">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pikurrot&show_icons=true&theme=radical">
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pikurrot&label=Profile%20views&color=0e75b6&style=flat" alt="Pikurrot" /> </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py">
